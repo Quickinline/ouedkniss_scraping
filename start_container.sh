@@ -1,0 +1,1 @@
+docker container run -it --rm -v $(pwd):/app scrapy:3.6-alpine3.12 sh
